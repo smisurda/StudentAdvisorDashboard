@@ -1,0 +1,2810 @@
+{
+  "generatedAt": "2026-08-26T14:47:00-04:00",
+  "term": "Fall 2026",
+  "rosterType": "Advisor",
+  "advisor": {
+    "name": "Sample Advisor"
+  },
+  "students": [
+    {
+      "studentId": "900100001",
+      "firstName": "Avery",
+      "lastName": "Anderson",
+      "preferredName": "Avery",
+      "email": "avery.anderson1@example.edu",
+      "academic": {
+        "program": "Computer Science",
+        "level": "First-Year",
+        "campus": "University Park",
+        "cumulativeGpa": 2.05,
+        "termGpa": 1.78,
+        "enrolledCredits": 12,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 74,
+        "attendancePercent": 66,
+        "assignmentsOnTimePercent": 61,
+        "canvasActivityLast7Days": 69,
+        "lastLogin": "2026-08-25"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-28",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100002",
+      "firstName": "Jordan",
+      "lastName": "Diaz",
+      "preferredName": "Jordan",
+      "email": "jordan.diaz2@example.edu",
+      "academic": {
+        "program": "Computer Science",
+        "level": "Sophomore",
+        "campus": "World Campus",
+        "cumulativeGpa": 3.43,
+        "termGpa": 3.67,
+        "enrolledCredits": 14,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 84,
+        "attendancePercent": 72,
+        "assignmentsOnTimePercent": 83,
+        "canvasActivityLast7Days": 75,
+        "lastLogin": "2026-08-22"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-01",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100003",
+      "firstName": "Taylor",
+      "lastName": "Garcia",
+      "preferredName": null,
+      "email": "taylor.garcia3@example.edu",
+      "academic": {
+        "program": "Economics",
+        "level": "First-Year",
+        "campus": "Behrend",
+        "cumulativeGpa": 2.2,
+        "termGpa": 2.06,
+        "enrolledCredits": 16,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 80,
+        "attendancePercent": 80,
+        "assignmentsOnTimePercent": 93,
+        "canvasActivityLast7Days": 33,
+        "lastLogin": "2026-08-14"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-14",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100004",
+      "firstName": "Morgan",
+      "lastName": "Johnson",
+      "preferredName": "Morgan",
+      "email": "morgan.johnson4@example.edu",
+      "academic": {
+        "program": "Chemistry",
+        "level": "First-Year",
+        "campus": "Behrend",
+        "cumulativeGpa": 3.15,
+        "termGpa": 3.4,
+        "enrolledCredits": 16,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 81,
+        "attendancePercent": 100,
+        "assignmentsOnTimePercent": 69,
+        "canvasActivityLast7Days": 37,
+        "lastLogin": "2026-08-25"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-20",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100005",
+      "firstName": "Riley",
+      "lastName": "Mitchell",
+      "preferredName": null,
+      "email": "riley.mitchell5@example.edu",
+      "academic": {
+        "program": "Criminal Justice",
+        "level": "Sophomore",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 2.74,
+        "termGpa": 2.39,
+        "enrolledCredits": 13,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 85,
+        "attendancePercent": 99,
+        "assignmentsOnTimePercent": 59,
+        "canvasActivityLast7Days": 77,
+        "lastLogin": "2026-08-16"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-26",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100006",
+      "firstName": "Cameron",
+      "lastName": "Patel",
+      "preferredName": "Cameron",
+      "email": "cameron.patel6@example.edu",
+      "academic": {
+        "program": "Finance",
+        "level": "Junior",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 3.37,
+        "termGpa": 3.78,
+        "enrolledCredits": 14,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 69,
+        "attendancePercent": 72,
+        "assignmentsOnTimePercent": 57,
+        "canvasActivityLast7Days": 40,
+        "lastLogin": "2026-08-20"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-02",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100007",
+      "firstName": "Casey",
+      "lastName": "Turner",
+      "preferredName": "Casey",
+      "email": "casey.turner7@example.edu",
+      "academic": {
+        "program": "Biology",
+        "level": "Senior",
+        "campus": "University Park",
+        "cumulativeGpa": 2.29,
+        "termGpa": 1.86,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 92,
+        "attendancePercent": 95,
+        "assignmentsOnTimePercent": 82,
+        "canvasActivityLast7Days": 74,
+        "lastLogin": null
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-20",
+        "appointmentScheduled": true,
+        "notes": "Advisor follow-up recommended."
+      }
+    },
+    {
+      "studentId": "900100008",
+      "firstName": "Parker",
+      "lastName": "Adams",
+      "preferredName": "Parker",
+      "email": "parker.adams8@example.edu",
+      "academic": {
+        "program": "Communication",
+        "level": "First-Year",
+        "campus": "World Campus",
+        "cumulativeGpa": 3.19,
+        "termGpa": 3.05,
+        "enrolledCredits": 17,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 87,
+        "attendancePercent": 91,
+        "assignmentsOnTimePercent": 71,
+        "canvasActivityLast7Days": 70,
+        "lastLogin": "2026-08-13"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-03",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100009",
+      "firstName": "Quinn",
+      "lastName": "Davis",
+      "preferredName": null,
+      "email": "quinn.davis9@example.edu",
+      "academic": {
+        "program": "English",
+        "level": "First-Year",
+        "campus": "World Campus",
+        "cumulativeGpa": 2.22,
+        "termGpa": 2.14,
+        "enrolledCredits": 16,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 75,
+        "attendancePercent": 58,
+        "assignmentsOnTimePercent": 71,
+        "canvasActivityLast7Days": 64,
+        "lastLogin": "2026-08-14"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-17",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100010",
+      "firstName": "Reese",
+      "lastName": "Green",
+      "preferredName": null,
+      "email": "reese.green10@example.edu",
+      "academic": {
+        "program": "Mechanical Engineering",
+        "level": "Junior",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 2.31,
+        "termGpa": 2.63,
+        "enrolledCredits": 14,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 90,
+        "attendancePercent": 96,
+        "assignmentsOnTimePercent": 75,
+        "canvasActivityLast7Days": 62,
+        "lastLogin": "2026-08-26"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-17",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100011",
+      "firstName": "Alex",
+      "lastName": "King",
+      "preferredName": "Alex",
+      "email": "alex.king11@example.edu",
+      "academic": {
+        "program": "Political Science",
+        "level": "Sophomore",
+        "campus": "Abington",
+        "cumulativeGpa": 2.17,
+        "termGpa": 2.15,
+        "enrolledCredits": 12,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 64,
+        "attendancePercent": 92,
+        "assignmentsOnTimePercent": 63,
+        "canvasActivityLast7Days": 16,
+        "lastLogin": "2026-08-16"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-18",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100012",
+      "firstName": "Drew",
+      "lastName": "Nelson",
+      "preferredName": "Drew",
+      "email": "drew.nelson12@example.edu",
+      "academic": {
+        "program": "English",
+        "level": "Senior",
+        "campus": "University Park",
+        "cumulativeGpa": 3.86,
+        "termGpa": 4.0,
+        "enrolledCredits": 14,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 85,
+        "attendancePercent": 77,
+        "assignmentsOnTimePercent": 80,
+        "canvasActivityLast7Days": 85,
+        "lastLogin": "2026-08-16"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-24",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100013",
+      "firstName": "Jamie",
+      "lastName": "Reed",
+      "preferredName": "Jamie",
+      "email": "jamie.reed13@example.edu",
+      "academic": {
+        "program": "Political Science",
+        "level": "Sophomore",
+        "campus": "Abington",
+        "cumulativeGpa": 3.18,
+        "termGpa": 2.59,
+        "enrolledCredits": 14,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 48,
+        "attendancePercent": 72,
+        "assignmentsOnTimePercent": 59,
+        "canvasActivityLast7Days": 4,
+        "lastLogin": "2026-08-13"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-31",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100014",
+      "firstName": "Kendall",
+      "lastName": "White",
+      "preferredName": "Kendall",
+      "email": "kendall.white14@example.edu",
+      "academic": {
+        "program": "Nursing",
+        "level": "Senior",
+        "campus": "Behrend",
+        "cumulativeGpa": 2.49,
+        "termGpa": 2.46,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 53,
+        "attendancePercent": 70,
+        "assignmentsOnTimePercent": 61,
+        "canvasActivityLast7Days": 12,
+        "lastLogin": "2026-08-16"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-06",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100015",
+      "firstName": "Logan",
+      "lastName": "Campbell",
+      "preferredName": "Logan",
+      "email": "logan.campbell15@example.edu",
+      "academic": {
+        "program": "Nursing",
+        "level": "Sophomore",
+        "campus": "Abington",
+        "cumulativeGpa": 2.12,
+        "termGpa": null,
+        "enrolledCredits": 12,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 63,
+        "attendancePercent": 73,
+        "assignmentsOnTimePercent": 67,
+        "canvasActivityLast7Days": 24,
+        "lastLogin": "2026-08-18"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-26",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100016",
+      "firstName": "Micah",
+      "lastName": "Foster",
+      "preferredName": null,
+      "email": "micah.foster16@example.edu",
+      "academic": {
+        "program": "Psychology",
+        "level": "Sophomore",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 3.62,
+        "termGpa": 4.0,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 85,
+        "attendancePercent": 61,
+        "assignmentsOnTimePercent": 96,
+        "canvasActivityLast7Days": 69,
+        "lastLogin": "2026-08-13"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-03",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100017",
+      "firstName": "Rowan",
+      "lastName": "Iverson",
+      "preferredName": "Rowan",
+      "email": "rowan.iverson17@example.edu",
+      "academic": {
+        "program": "Criminal Justice",
+        "level": "Senior",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 3.8,
+        "termGpa": 3.4,
+        "enrolledCredits": 17,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 84,
+        "attendancePercent": 82,
+        "assignmentsOnTimePercent": 71,
+        "canvasActivityLast7Days": 58,
+        "lastLogin": "2026-08-22"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-31",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100018",
+      "firstName": "Skyler",
+      "lastName": "Lewis",
+      "preferredName": "Skyler",
+      "email": "skyler.lewis18@example.edu",
+      "academic": {
+        "program": "Psychology",
+        "level": "Sophomore",
+        "campus": "University Park",
+        "cumulativeGpa": 3.5,
+        "termGpa": 2.97,
+        "enrolledCredits": 9,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 74,
+        "attendancePercent": 90,
+        "assignmentsOnTimePercent": 88,
+        "canvasActivityLast7Days": 20,
+        "lastLogin": "2026-08-26"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-09",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100019",
+      "firstName": "Emerson",
+      "lastName": "Ortiz",
+      "preferredName": null,
+      "email": "emerson.ortiz19@example.edu",
+      "academic": {
+        "program": "Communication",
+        "level": "Junior",
+        "campus": "Abington",
+        "cumulativeGpa": 2.24,
+        "termGpa": 2.71,
+        "enrolledCredits": 17,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 69,
+        "attendancePercent": 95,
+        "assignmentsOnTimePercent": 93,
+        "canvasActivityLast7Days": 5,
+        "lastLogin": "2026-08-17"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-29",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100020",
+      "firstName": "Blake",
+      "lastName": "Scott",
+      "preferredName": "Blake",
+      "email": "blake.scott20@example.edu",
+      "academic": {
+        "program": "Information Sciences and Technology",
+        "level": "First-Year",
+        "campus": "University Park",
+        "cumulativeGpa": 2.79,
+        "termGpa": 3.0,
+        "enrolledCredits": 15,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 62,
+        "attendancePercent": 87,
+        "assignmentsOnTimePercent": 75,
+        "canvasActivityLast7Days": 9,
+        "lastLogin": "2026-08-26"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-17",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100021",
+      "firstName": "Harper",
+      "lastName": "Young",
+      "preferredName": "Harper",
+      "email": "harper.young21@example.edu",
+      "academic": {
+        "program": "Marketing",
+        "level": "First-Year",
+        "campus": "World Campus",
+        "cumulativeGpa": 3.76,
+        "termGpa": 4.0,
+        "enrolledCredits": 16,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 79,
+        "attendancePercent": 76,
+        "assignmentsOnTimePercent": 65,
+        "canvasActivityLast7Days": 56,
+        "lastLogin": "2026-08-13"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-12",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100022",
+      "firstName": "Noah",
+      "lastName": "Chen",
+      "preferredName": "Noah",
+      "email": "noah.chen22@example.edu",
+      "academic": {
+        "program": "Finance",
+        "level": "Junior",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 3.88,
+        "termGpa": 3.44,
+        "enrolledCredits": 12,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 65,
+        "attendancePercent": 64,
+        "assignmentsOnTimePercent": 90,
+        "canvasActivityLast7Days": 19,
+        "lastLogin": "2026-08-22"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-29",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100023",
+      "firstName": "Maya",
+      "lastName": "Flores",
+      "preferredName": "Maya",
+      "email": "maya.flores23@example.edu",
+      "academic": {
+        "program": "Computer Science",
+        "level": "Junior",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 2.5,
+        "termGpa": 2.99,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 85,
+        "attendancePercent": 63,
+        "assignmentsOnTimePercent": 95,
+        "canvasActivityLast7Days": 54,
+        "lastLogin": "2026-08-13"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-04",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100024",
+      "firstName": "Liam",
+      "lastName": "Jackson",
+      "preferredName": null,
+      "email": "liam.jackson24@example.edu",
+      "academic": {
+        "program": "Mechanical Engineering",
+        "level": "Sophomore",
+        "campus": "Behrend",
+        "cumulativeGpa": 3.1,
+        "termGpa": 3.01,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 55,
+        "attendancePercent": 65,
+        "assignmentsOnTimePercent": 59,
+        "canvasActivityLast7Days": 19,
+        "lastLogin": "2026-08-18"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-08",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100025",
+      "firstName": "Olivia",
+      "lastName": "Martin",
+      "preferredName": "Olivia",
+      "email": "olivia.martin25@example.edu",
+      "academic": {
+        "program": "Chemistry",
+        "level": "Senior",
+        "campus": "Berks",
+        "cumulativeGpa": 3.8,
+        "termGpa": 3.45,
+        "enrolledCredits": 9,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 83,
+        "attendancePercent": 100,
+        "assignmentsOnTimePercent": 61,
+        "canvasActivityLast7Days": 45,
+        "lastLogin": "2026-08-14"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-21",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100026",
+      "firstName": "Ethan",
+      "lastName": "Perez",
+      "preferredName": "Ethan",
+      "email": "ethan.perez26@example.edu",
+      "academic": {
+        "program": "Mathematics",
+        "level": "Sophomore",
+        "campus": "Abington",
+        "cumulativeGpa": 3.95,
+        "termGpa": 4.0,
+        "enrolledCredits": 13,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 69,
+        "attendancePercent": 59,
+        "assignmentsOnTimePercent": 66,
+        "canvasActivityLast7Days": 42,
+        "lastLogin": "2026-08-14"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-04",
+        "appointmentScheduled": false,
+        "notes": "Recently changed academic program."
+      }
+    },
+    {
+      "studentId": "900100027",
+      "firstName": "Sophia",
+      "lastName": "Thomas",
+      "preferredName": null,
+      "email": "sophia.thomas27@example.edu",
+      "academic": {
+        "program": "Finance",
+        "level": "Senior",
+        "campus": "Abington",
+        "cumulativeGpa": 2.44,
+        "termGpa": 2.82,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 71,
+        "attendancePercent": 80,
+        "assignmentsOnTimePercent": 74,
+        "canvasActivityLast7Days": 29,
+        "lastLogin": "2026-08-23"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-20",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100028",
+      "firstName": "Mason",
+      "lastName": "Bennett",
+      "preferredName": "Mason",
+      "email": "mason.bennett28@example.edu",
+      "academic": {
+        "program": null,
+        "level": "First-Year",
+        "campus": "University Park",
+        "cumulativeGpa": 2.7,
+        "termGpa": 2.71,
+        "enrolledCredits": 15,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 62,
+        "attendancePercent": 59,
+        "assignmentsOnTimePercent": 62,
+        "canvasActivityLast7Days": 33,
+        "lastLogin": "2026-08-24"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-09",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100029",
+      "firstName": "Isabella",
+      "lastName": "Edwards",
+      "preferredName": null,
+      "email": "isabella.edwards29@example.edu",
+      "academic": {
+        "program": "Nursing",
+        "level": "First-Year",
+        "campus": "Berks",
+        "cumulativeGpa": 2.87,
+        "termGpa": 3.45,
+        "enrolledCredits": 16,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 75,
+        "attendancePercent": 82,
+        "assignmentsOnTimePercent": 91,
+        "canvasActivityLast7Days": 24,
+        "lastLogin": "2026-08-22"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-04-28",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100030",
+      "firstName": "Lucas",
+      "lastName": "Hughes",
+      "preferredName": null,
+      "email": "lucas.hughes30@example.edu",
+      "academic": {
+        "program": "English",
+        "level": "Junior",
+        "campus": "Berks",
+        "cumulativeGpa": 2.73,
+        "termGpa": 2.21,
+        "enrolledCredits": 14,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 90,
+        "attendancePercent": 97,
+        "assignmentsOnTimePercent": 75,
+        "canvasActivityLast7Days": 84,
+        "lastLogin": "2026-08-13"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-16",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100031",
+      "firstName": "Amelia",
+      "lastName": "Kim",
+      "preferredName": "Amelia",
+      "email": "amelia.kim31@example.edu",
+      "academic": {
+        "program": "Chemistry",
+        "level": "First-Year",
+        "campus": "Abington",
+        "cumulativeGpa": 3.11,
+        "termGpa": 2.74,
+        "enrolledCredits": 15,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 87,
+        "attendancePercent": 69,
+        "assignmentsOnTimePercent": 94,
+        "canvasActivityLast7Days": 72,
+        "lastLogin": "2026-08-22"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-19",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100032",
+      "firstName": "Henry",
+      "lastName": "Nguyen",
+      "preferredName": null,
+      "email": "henry.nguyen32@example.edu",
+      "academic": {
+        "program": "Political Science",
+        "level": "Junior",
+        "campus": "University Park",
+        "cumulativeGpa": 2.93,
+        "termGpa": 2.86,
+        "enrolledCredits": 16,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 74,
+        "attendancePercent": 90,
+        "assignmentsOnTimePercent": 85,
+        "canvasActivityLast7Days": 21,
+        "lastLogin": "2026-08-16"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-12",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100033",
+      "firstName": "Charlotte",
+      "lastName": "Roberts",
+      "preferredName": "Charlotte",
+      "email": "charlotte.roberts33@example.edu",
+      "academic": {
+        "program": "Psychology",
+        "level": "Senior",
+        "campus": "Behrend",
+        "cumulativeGpa": 2.45,
+        "termGpa": 2.09,
+        "enrolledCredits": 15,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 76,
+        "attendancePercent": 60,
+        "assignmentsOnTimePercent": 70,
+        "canvasActivityLast7Days": 60,
+        "lastLogin": "2026-08-17"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-03",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100034",
+      "firstName": "Jack",
+      "lastName": "Walker",
+      "preferredName": "Jack",
+      "email": "jack.walker34@example.edu",
+      "academic": {
+        "program": "Criminal Justice",
+        "level": "Senior",
+        "campus": "University Park",
+        "cumulativeGpa": 2.99,
+        "termGpa": 2.68,
+        "enrolledCredits": 17,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 68,
+        "attendancePercent": 64,
+        "assignmentsOnTimePercent": 82,
+        "canvasActivityLast7Days": 28,
+        "lastLogin": "2026-08-24"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-14",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100035",
+      "firstName": "Evelyn",
+      "lastName": "Brooks",
+      "preferredName": "Evelyn",
+      "email": "evelyn.brooks35@example.edu",
+      "academic": {
+        "program": "Political Science",
+        "level": "Senior",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 2.27,
+        "termGpa": 2.23,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 93,
+        "attendancePercent": 86,
+        "assignmentsOnTimePercent": 94,
+        "canvasActivityLast7Days": 64,
+        "lastLogin": "2026-08-20"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-21",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100036",
+      "firstName": "Leo",
+      "lastName": "Evans",
+      "preferredName": null,
+      "email": "leo.evans36@example.edu",
+      "academic": {
+        "program": "Marketing",
+        "level": "Sophomore",
+        "campus": "Abington",
+        "cumulativeGpa": 3.68,
+        "termGpa": 3.41,
+        "enrolledCredits": 14,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 80,
+        "attendancePercent": 98,
+        "assignmentsOnTimePercent": 70,
+        "canvasActivityLast7Days": 35,
+        "lastLogin": "2026-08-19"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-13",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100037",
+      "firstName": "Mia",
+      "lastName": "Hall",
+      "preferredName": "Mia",
+      "email": "mia.hall37@example.edu",
+      "academic": {
+        "program": "Economics",
+        "level": "Senior",
+        "campus": "University Park",
+        "cumulativeGpa": 2.3,
+        "termGpa": 2.16,
+        "enrolledCredits": 13,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 76,
+        "attendancePercent": 71,
+        "assignmentsOnTimePercent": 59,
+        "canvasActivityLast7Days": 53,
+        "lastLogin": "2026-08-20"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-29",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100038",
+      "firstName": "Owen",
+      "lastName": "Lopez",
+      "preferredName": "Owen",
+      "email": "owen.lopez38@example.edu",
+      "academic": {
+        "program": "Chemistry",
+        "level": "Senior",
+        "campus": "Berks",
+        "cumulativeGpa": 3.71,
+        "termGpa": 4.0,
+        "enrolledCredits": 9,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 77,
+        "attendancePercent": 88,
+        "assignmentsOnTimePercent": 55,
+        "canvasActivityLast7Days": 45,
+        "lastLogin": "2026-08-22"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-21",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100039",
+      "firstName": "Ella",
+      "lastName": "Owens",
+      "preferredName": "Ella",
+      "email": "ella.owens39@example.edu",
+      "academic": {
+        "program": "Nursing",
+        "level": "Sophomore",
+        "campus": "Behrend",
+        "cumulativeGpa": 2.98,
+        "termGpa": 2.71,
+        "enrolledCredits": 14,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 74,
+        "attendancePercent": 59,
+        "assignmentsOnTimePercent": 79,
+        "canvasActivityLast7Days": 43,
+        "lastLogin": "2026-08-16"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-04-29",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100040",
+      "firstName": "Aria",
+      "lastName": "Sanchez",
+      "preferredName": "Aria",
+      "email": "aria.sanchez40@example.edu",
+      "academic": {
+        "program": "Biology",
+        "level": "First-Year",
+        "campus": "Abington",
+        "cumulativeGpa": 3.81,
+        "termGpa": 3.92,
+        "enrolledCredits": 9,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 86,
+        "attendancePercent": 63,
+        "assignmentsOnTimePercent": 96,
+        "canvasActivityLast7Days": 54,
+        "lastLogin": "2026-08-24"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-07",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100041",
+      "firstName": "Nora",
+      "lastName": "Anderson",
+      "preferredName": "Nora",
+      "email": "nora.anderson41@example.edu",
+      "academic": {
+        "program": "Computer Science",
+        "level": "Junior",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 3.52,
+        "termGpa": 3.37,
+        "enrolledCredits": 16,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 77,
+        "attendancePercent": 74,
+        "assignmentsOnTimePercent": 60,
+        "canvasActivityLast7Days": 60,
+        "lastLogin": "2026-08-26"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-02",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100042",
+      "firstName": "Caleb",
+      "lastName": "Diaz",
+      "preferredName": null,
+      "email": "caleb.diaz42@example.edu",
+      "academic": {
+        "program": "Communication",
+        "level": "First-Year",
+        "campus": "Berks",
+        "cumulativeGpa": 3.51,
+        "termGpa": 4.0,
+        "enrolledCredits": 9,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 65,
+        "attendancePercent": 59,
+        "assignmentsOnTimePercent": 94,
+        "canvasActivityLast7Days": 19,
+        "lastLogin": "2026-08-23"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-28",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100043",
+      "firstName": "Layla",
+      "lastName": "Garcia",
+      "preferredName": null,
+      "email": "layla.garcia43@example.edu",
+      "academic": {
+        "program": "Marketing",
+        "level": "Senior",
+        "campus": "Behrend",
+        "cumulativeGpa": 2.34,
+        "termGpa": 2.47,
+        "enrolledCredits": 16,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 57,
+        "attendancePercent": 68,
+        "assignmentsOnTimePercent": 74,
+        "canvasActivityLast7Days": 13,
+        "lastLogin": "2026-08-17"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-25",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100044",
+      "firstName": "Julian",
+      "lastName": "Johnson",
+      "preferredName": null,
+      "email": "julian.johnson44@example.edu",
+      "academic": {
+        "program": "Mechanical Engineering",
+        "level": "First-Year",
+        "campus": "Berks",
+        "cumulativeGpa": 2.2,
+        "termGpa": 2.53,
+        "enrolledCredits": 14,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 79,
+        "attendancePercent": 94,
+        "assignmentsOnTimePercent": 57,
+        "canvasActivityLast7Days": 44,
+        "lastLogin": "2026-08-18"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-03",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100045",
+      "firstName": "Hazel",
+      "lastName": "Mitchell",
+      "preferredName": "Hazel",
+      "email": "hazel.mitchell45@example.edu",
+      "academic": {
+        "program": "Communication",
+        "level": "Junior",
+        "campus": "Berks",
+        "cumulativeGpa": 2.21,
+        "termGpa": 2.76,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 65,
+        "attendancePercent": 67,
+        "assignmentsOnTimePercent": 82,
+        "canvasActivityLast7Days": 22,
+        "lastLogin": "2026-08-15"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-13",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100046",
+      "firstName": "Isaac",
+      "lastName": "Patel",
+      "preferredName": "Isaac",
+      "email": "isaac.patel46@example.edu",
+      "academic": {
+        "program": "Finance",
+        "level": "Senior",
+        "campus": "Berks",
+        "cumulativeGpa": 2.87,
+        "termGpa": 3.15,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 58,
+        "attendancePercent": 78,
+        "assignmentsOnTimePercent": 70,
+        "canvasActivityLast7Days": 11,
+        "lastLogin": "2026-08-22"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-07",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100047",
+      "firstName": "Grace",
+      "lastName": "Turner",
+      "preferredName": "Grace",
+      "email": "grace.turner47@example.edu",
+      "academic": {
+        "program": "Criminal Justice",
+        "level": "Junior",
+        "campus": "Berks",
+        "cumulativeGpa": 3.7,
+        "termGpa": 3.32,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 79,
+        "attendancePercent": 80,
+        "assignmentsOnTimePercent": 71,
+        "canvasActivityLast7Days": 43,
+        "lastLogin": "2026-08-22"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-23",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100048",
+      "firstName": "Wyatt",
+      "lastName": "Adams",
+      "preferredName": "Wyatt",
+      "email": "wyatt.adams48@example.edu",
+      "academic": {
+        "program": "Psychology",
+        "level": "Junior",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 3.44,
+        "termGpa": 3.43,
+        "enrolledCredits": 14,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 94,
+        "attendancePercent": 88,
+        "assignmentsOnTimePercent": 96,
+        "canvasActivityLast7Days": 62,
+        "lastLogin": "2026-08-19"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-04",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100049",
+      "firstName": "Chloe",
+      "lastName": "Davis",
+      "preferredName": "Chloe",
+      "email": "chloe.davis49@example.edu",
+      "academic": {
+        "program": "Marketing",
+        "level": "Junior",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 2.95,
+        "termGpa": 2.99,
+        "enrolledCredits": 16,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 86,
+        "attendancePercent": 93,
+        "assignmentsOnTimePercent": 76,
+        "canvasActivityLast7Days": 45,
+        "lastLogin": "2026-08-15"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-09",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100050",
+      "firstName": "Elijah",
+      "lastName": "Green",
+      "preferredName": "Elijah",
+      "email": "elijah.green50@example.edu",
+      "academic": {
+        "program": "Chemistry",
+        "level": "Sophomore",
+        "campus": "Abington",
+        "cumulativeGpa": 2.38,
+        "termGpa": 2.67,
+        "enrolledCredits": 13,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 94,
+        "attendancePercent": 95,
+        "assignmentsOnTimePercent": 88,
+        "canvasActivityLast7Days": 76,
+        "lastLogin": "2026-08-22"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-26",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100051",
+      "firstName": "Avery",
+      "lastName": "King",
+      "preferredName": "Avery",
+      "email": "avery.king51@example.edu",
+      "academic": {
+        "program": "Information Sciences and Technology",
+        "level": "Junior",
+        "campus": "Behrend",
+        "cumulativeGpa": 2.55,
+        "termGpa": 3.12,
+        "enrolledCredits": 13,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 86,
+        "attendancePercent": 66,
+        "assignmentsOnTimePercent": 95,
+        "canvasActivityLast7Days": 62,
+        "lastLogin": "2026-08-25"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-24",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100052",
+      "firstName": "Jordan",
+      "lastName": "Nelson",
+      "preferredName": "Jordan",
+      "email": "jordan.nelson52@example.edu",
+      "academic": {
+        "program": "Communication",
+        "level": "First-Year",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 2.5,
+        "termGpa": 2.93,
+        "enrolledCredits": 9,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 80,
+        "attendancePercent": 62,
+        "assignmentsOnTimePercent": 80,
+        "canvasActivityLast7Days": 62,
+        "lastLogin": "2026-08-25"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-05",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100053",
+      "firstName": "Taylor",
+      "lastName": "Reed",
+      "preferredName": "Taylor",
+      "email": "taylor.reed53@example.edu",
+      "academic": {
+        "program": "Nursing",
+        "level": "Senior",
+        "campus": "Behrend",
+        "cumulativeGpa": 3.99,
+        "termGpa": 3.53,
+        "enrolledCredits": 12,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 96,
+        "attendancePercent": 96,
+        "assignmentsOnTimePercent": 93,
+        "canvasActivityLast7Days": 79,
+        "lastLogin": "2026-08-23"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-17",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100054",
+      "firstName": "Morgan",
+      "lastName": "White",
+      "preferredName": "Morgan",
+      "email": "morgan.white54@example.edu",
+      "academic": {
+        "program": "Biology",
+        "level": "Sophomore",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 3.14,
+        "termGpa": 2.61,
+        "enrolledCredits": 15,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 74,
+        "attendancePercent": 71,
+        "assignmentsOnTimePercent": 95,
+        "canvasActivityLast7Days": 27,
+        "lastLogin": "2026-08-22"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-15",
+        "appointmentScheduled": true,
+        "notes": "Student requested information about support resources."
+      }
+    },
+    {
+      "studentId": "900100055",
+      "firstName": "Riley",
+      "lastName": "Campbell",
+      "preferredName": "Riley",
+      "email": "riley.campbell55@example.edu",
+      "academic": {
+        "program": "Mathematics",
+        "level": "Sophomore",
+        "campus": "Behrend",
+        "cumulativeGpa": 2.58,
+        "termGpa": 2.26,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 68,
+        "attendancePercent": 87,
+        "assignmentsOnTimePercent": 59,
+        "canvasActivityLast7Days": 29,
+        "lastLogin": "2026-08-12"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-10",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100056",
+      "firstName": "Cameron",
+      "lastName": "Foster",
+      "preferredName": "Cameron",
+      "email": "cameron.foster56@example.edu",
+      "academic": {
+        "program": "Psychology",
+        "level": "Senior",
+        "campus": "World Campus",
+        "cumulativeGpa": 3.65,
+        "termGpa": 3.14,
+        "enrolledCredits": 15,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 90,
+        "attendancePercent": 77,
+        "assignmentsOnTimePercent": 93,
+        "canvasActivityLast7Days": 72,
+        "lastLogin": "2026-08-12"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-17",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100057",
+      "firstName": "Casey",
+      "lastName": "Iverson",
+      "preferredName": null,
+      "email": "casey.iverson57@example.edu",
+      "academic": {
+        "program": "Communication",
+        "level": "First-Year",
+        "campus": "World Campus",
+        "cumulativeGpa": 2.88,
+        "termGpa": 3.0,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 79,
+        "attendancePercent": 78,
+        "assignmentsOnTimePercent": 93,
+        "canvasActivityLast7Days": 32,
+        "lastLogin": "2026-08-26"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-11",
+        "appointmentScheduled": false,
+        "notes": "Advisor follow-up recommended."
+      }
+    },
+    {
+      "studentId": "900100058",
+      "firstName": "Parker",
+      "lastName": "Lewis",
+      "preferredName": "Parker",
+      "email": "parker.lewis58@example.edu",
+      "academic": {
+        "program": "Psychology",
+        "level": "Senior",
+        "campus": "Abington",
+        "cumulativeGpa": 3.04,
+        "termGpa": 2.97,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 86,
+        "attendancePercent": 69,
+        "assignmentsOnTimePercent": 92,
+        "canvasActivityLast7Days": 55,
+        "lastLogin": "2026-08-16"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-03",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100059",
+      "firstName": "Quinn",
+      "lastName": "Ortiz",
+      "preferredName": "Quinn",
+      "email": "quinn.ortiz59@example.edu",
+      "academic": {
+        "program": "Mechanical Engineering",
+        "level": "Junior",
+        "campus": "Abington",
+        "cumulativeGpa": 2.66,
+        "termGpa": 2.89,
+        "enrolledCredits": 13,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 93,
+        "attendancePercent": null,
+        "assignmentsOnTimePercent": 80,
+        "canvasActivityLast7Days": 70,
+        "lastLogin": "2026-08-26"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-10",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100060",
+      "firstName": "Reese",
+      "lastName": "Scott",
+      "preferredName": "Reese",
+      "email": "reese.scott60@example.edu",
+      "academic": {
+        "program": "Economics",
+        "level": "Senior",
+        "campus": "University Park",
+        "cumulativeGpa": 3.32,
+        "termGpa": 3.37,
+        "enrolledCredits": 9,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 75,
+        "attendancePercent": 61,
+        "assignmentsOnTimePercent": 67,
+        "canvasActivityLast7Days": 66,
+        "lastLogin": "2026-08-21"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-29",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100061",
+      "firstName": "Alex",
+      "lastName": "Young",
+      "preferredName": "Alex",
+      "email": "alex.young61@example.edu",
+      "academic": {
+        "program": "Biology",
+        "level": "Junior",
+        "campus": "Berks",
+        "cumulativeGpa": 2.88,
+        "termGpa": 3.12,
+        "enrolledCredits": 15,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 84,
+        "attendancePercent": 59,
+        "assignmentsOnTimePercent": 95,
+        "canvasActivityLast7Days": 77,
+        "lastLogin": "2026-08-14"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-23",
+        "appointmentScheduled": false,
+        "notes": "Recently changed academic program."
+      }
+    },
+    {
+      "studentId": "900100062",
+      "firstName": "Drew",
+      "lastName": "Chen",
+      "preferredName": "Drew",
+      "email": "drew.chen62@example.edu",
+      "academic": {
+        "program": "Nursing",
+        "level": "Senior",
+        "campus": "Behrend",
+        "cumulativeGpa": 3.89,
+        "termGpa": 4.0,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 88,
+        "attendancePercent": 89,
+        "assignmentsOnTimePercent": 100,
+        "canvasActivityLast7Days": 37,
+        "lastLogin": "2026-08-18"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-24",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100063",
+      "firstName": "Jamie",
+      "lastName": "Flores",
+      "preferredName": "Jamie",
+      "email": "jamie.flores63@example.edu",
+      "academic": {
+        "program": "Political Science",
+        "level": "Junior",
+        "campus": "University Park",
+        "cumulativeGpa": 3.84,
+        "termGpa": 3.85,
+        "enrolledCredits": 14,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 77,
+        "attendancePercent": 62,
+        "assignmentsOnTimePercent": 72,
+        "canvasActivityLast7Days": 53,
+        "lastLogin": "2026-08-21"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-19",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100064",
+      "firstName": "Kendall",
+      "lastName": "Jackson",
+      "preferredName": "Kendall",
+      "email": "kendall.jackson64@example.edu",
+      "academic": {
+        "program": "Economics",
+        "level": "Junior",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 3.73,
+        "termGpa": 3.67,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 85,
+        "attendancePercent": 80,
+        "assignmentsOnTimePercent": 76,
+        "canvasActivityLast7Days": 70,
+        "lastLogin": "2026-08-14"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-27",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100065",
+      "firstName": "Logan",
+      "lastName": "Martin",
+      "preferredName": "Logan",
+      "email": "logan.martin65@example.edu",
+      "academic": {
+        "program": "Computer Science",
+        "level": "Sophomore",
+        "campus": "Berks",
+        "cumulativeGpa": 2.09,
+        "termGpa": 2.38,
+        "enrolledCredits": 17,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 93,
+        "attendancePercent": 82,
+        "assignmentsOnTimePercent": 97,
+        "canvasActivityLast7Days": 83,
+        "lastLogin": "2026-08-24"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-10",
+        "appointmentScheduled": false,
+        "notes": "Student requested information about support resources."
+      }
+    },
+    {
+      "studentId": "900100066",
+      "firstName": "Micah",
+      "lastName": "Perez",
+      "preferredName": "Micah",
+      "email": "micah.perez66@example.edu",
+      "academic": {
+        "program": "Marketing",
+        "level": "Junior",
+        "campus": "Berks",
+        "cumulativeGpa": 3.05,
+        "termGpa": 3.0,
+        "enrolledCredits": 12,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 74,
+        "attendancePercent": 84,
+        "assignmentsOnTimePercent": 96,
+        "canvasActivityLast7Days": 19,
+        "lastLogin": "2026-08-25"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-28",
+        "appointmentScheduled": false,
+        "notes": "Discussed academic progress and next-term planning."
+      }
+    },
+    {
+      "studentId": "900100067",
+      "firstName": "Rowan",
+      "lastName": "Thomas",
+      "preferredName": "Rowan",
+      "email": "rowan.thomas67@example.edu",
+      "academic": {
+        "program": "Communication",
+        "level": "Junior",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 3.91,
+        "termGpa": 4.0,
+        "enrolledCredits": 17,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 82,
+        "attendancePercent": 92,
+        "assignmentsOnTimePercent": 57,
+        "canvasActivityLast7Days": 79,
+        "lastLogin": "2026-08-25"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-21",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100068",
+      "firstName": "Skyler",
+      "lastName": "Bennett",
+      "preferredName": "Skyler",
+      "email": "skyler.bennett68@example.edu",
+      "academic": {
+        "program": "Nursing",
+        "level": "Sophomore",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 2.89,
+        "termGpa": 3.12,
+        "enrolledCredits": 12,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 51,
+        "attendancePercent": 60,
+        "assignmentsOnTimePercent": 75,
+        "canvasActivityLast7Days": 7,
+        "lastLogin": "2026-08-22"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-18",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100069",
+      "firstName": "Emerson",
+      "lastName": "Edwards",
+      "preferredName": "Emerson",
+      "email": "emerson.edwards69@example.edu",
+      "academic": {
+        "program": "Biology",
+        "level": "Sophomore",
+        "campus": "Behrend",
+        "cumulativeGpa": 2.34,
+        "termGpa": 1.83,
+        "enrolledCredits": 13,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 86,
+        "attendancePercent": 97,
+        "assignmentsOnTimePercent": 98,
+        "canvasActivityLast7Days": 30,
+        "lastLogin": "2026-08-19"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-04",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100070",
+      "firstName": "Blake",
+      "lastName": "Hughes",
+      "preferredName": "Blake",
+      "email": "blake.hughes70@example.edu",
+      "academic": {
+        "program": "Information Sciences and Technology",
+        "level": "Junior",
+        "campus": "World Campus",
+        "cumulativeGpa": 3.8,
+        "termGpa": 3.76,
+        "enrolledCredits": 9,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 60,
+        "attendancePercent": 92,
+        "assignmentsOnTimePercent": 65,
+        "canvasActivityLast7Days": 9,
+        "lastLogin": "2026-08-19"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-01",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100071",
+      "firstName": "Harper",
+      "lastName": "Kim",
+      "preferredName": "Harper",
+      "email": "harper.kim71@example.edu",
+      "academic": {
+        "program": "Marketing",
+        "level": "Junior",
+        "campus": "University Park",
+        "cumulativeGpa": 2.4,
+        "termGpa": 2.26,
+        "enrolledCredits": 15,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 76,
+        "attendancePercent": 64,
+        "assignmentsOnTimePercent": 70,
+        "canvasActivityLast7Days": 48,
+        "lastLogin": "2026-08-17"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-10",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100072",
+      "firstName": "Noah",
+      "lastName": "Nguyen",
+      "preferredName": "Noah",
+      "email": "noah.nguyen72@example.edu",
+      "academic": {
+        "program": "Information Sciences and Technology",
+        "level": "Junior",
+        "campus": "World Campus",
+        "cumulativeGpa": 3.82,
+        "termGpa": 4.0,
+        "enrolledCredits": 9,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 85,
+        "attendancePercent": 72,
+        "assignmentsOnTimePercent": 93,
+        "canvasActivityLast7Days": 45,
+        "lastLogin": "2026-08-23"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-20",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100073",
+      "firstName": "Maya",
+      "lastName": "Roberts",
+      "preferredName": "Maya",
+      "email": "maya.roberts73@example.edu",
+      "academic": {
+        "program": "Biology",
+        "level": "First-Year",
+        "campus": "Abington",
+        "cumulativeGpa": 3.26,
+        "termGpa": 3.74,
+        "enrolledCredits": 13,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 58,
+        "attendancePercent": 77,
+        "assignmentsOnTimePercent": 83,
+        "canvasActivityLast7Days": 4,
+        "lastLogin": "2026-08-17"
+      },
+      "advising": {
+        "lastAdvisorContact": null,
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100074",
+      "firstName": "Liam",
+      "lastName": "Walker",
+      "preferredName": null,
+      "email": "liam.walker74@example.edu",
+      "academic": {
+        "program": "English",
+        "level": "Senior",
+        "campus": "Abington",
+        "cumulativeGpa": 3.57,
+        "termGpa": 4.0,
+        "enrolledCredits": 13,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 83,
+        "attendancePercent": 91,
+        "assignmentsOnTimePercent": 87,
+        "canvasActivityLast7Days": 34,
+        "lastLogin": "2026-08-13"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-21",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100075",
+      "firstName": "Olivia",
+      "lastName": "Brooks",
+      "preferredName": "Olivia",
+      "email": "olivia.brooks75@example.edu",
+      "academic": {
+        "program": "Computer Science",
+        "level": "Junior",
+        "campus": "Berks",
+        "cumulativeGpa": 3.93,
+        "termGpa": 3.5,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 88,
+        "attendancePercent": 83,
+        "assignmentsOnTimePercent": 90,
+        "canvasActivityLast7Days": 46,
+        "lastLogin": "2026-08-25"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-09",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100076",
+      "firstName": "Ethan",
+      "lastName": "Evans",
+      "preferredName": null,
+      "email": "ethan.evans76@example.edu",
+      "academic": {
+        "program": "English",
+        "level": "Junior",
+        "campus": "Berks",
+        "cumulativeGpa": 3.17,
+        "termGpa": 3.56,
+        "enrolledCredits": 15,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 74,
+        "attendancePercent": 64,
+        "assignmentsOnTimePercent": 98,
+        "canvasActivityLast7Days": 29,
+        "lastLogin": "2026-08-19"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-27",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100077",
+      "firstName": "Sophia",
+      "lastName": "Hall",
+      "preferredName": "Sophia",
+      "email": "sophia.hall77@example.edu",
+      "academic": {
+        "program": "Economics",
+        "level": "First-Year",
+        "campus": "University Park",
+        "cumulativeGpa": 3.82,
+        "termGpa": 3.58,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 48,
+        "attendancePercent": 65,
+        "assignmentsOnTimePercent": 63,
+        "canvasActivityLast7Days": 5,
+        "lastLogin": "2026-08-26"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-25",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100078",
+      "firstName": "Mason",
+      "lastName": "Lopez",
+      "preferredName": null,
+      "email": "mason.lopez78@example.edu",
+      "academic": {
+        "program": "Economics",
+        "level": "Senior",
+        "campus": "Abington",
+        "cumulativeGpa": 2.74,
+        "termGpa": 3.28,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 86,
+        "attendancePercent": 95,
+        "assignmentsOnTimePercent": 64,
+        "canvasActivityLast7Days": 53,
+        "lastLogin": "2026-08-16"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-20",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100079",
+      "firstName": "Isabella",
+      "lastName": "Owens",
+      "preferredName": null,
+      "email": "isabella.owens79@example.edu",
+      "academic": {
+        "program": "Marketing",
+        "level": "Sophomore",
+        "campus": "University Park",
+        "cumulativeGpa": 3.9,
+        "termGpa": 4.0,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 90,
+        "attendancePercent": 81,
+        "assignmentsOnTimePercent": 89,
+        "canvasActivityLast7Days": 82,
+        "lastLogin": "2026-08-21"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-08",
+        "appointmentScheduled": false,
+        "notes": "Advisor follow-up recommended."
+      }
+    },
+    {
+      "studentId": "900100080",
+      "firstName": "Lucas",
+      "lastName": "Sanchez",
+      "preferredName": "Lucas",
+      "email": "lucas.sanchez80@example.edu",
+      "academic": {
+        "program": "Finance",
+        "level": "Sophomore",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 2.1,
+        "termGpa": 1.9,
+        "enrolledCredits": 9,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 61,
+        "attendancePercent": 94,
+        "assignmentsOnTimePercent": 68,
+        "canvasActivityLast7Days": 8,
+        "lastLogin": "2026-08-13"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-13",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100081",
+      "firstName": "Amelia",
+      "lastName": "Anderson",
+      "preferredName": "Amelia",
+      "email": "amelia.anderson81@example.edu",
+      "academic": {
+        "program": "Computer Science",
+        "level": "Sophomore",
+        "campus": "University Park",
+        "cumulativeGpa": 2.55,
+        "termGpa": 3.13,
+        "enrolledCredits": 9,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 70,
+        "attendancePercent": 92,
+        "assignmentsOnTimePercent": 71,
+        "canvasActivityLast7Days": 22,
+        "lastLogin": "2026-08-25"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-10",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100082",
+      "firstName": "Henry",
+      "lastName": "Diaz",
+      "preferredName": null,
+      "email": "henry.diaz82@example.edu",
+      "academic": {
+        "program": "Economics",
+        "level": "Junior",
+        "campus": "Berks",
+        "cumulativeGpa": 2.03,
+        "termGpa": 1.75,
+        "enrolledCredits": 16,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 69,
+        "attendancePercent": 84,
+        "assignmentsOnTimePercent": 88,
+        "canvasActivityLast7Days": 14,
+        "lastLogin": "2026-08-15"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-10",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100083",
+      "firstName": "Charlotte",
+      "lastName": "Garcia",
+      "preferredName": "Charlotte",
+      "email": "charlotte.garcia83@example.edu",
+      "academic": {
+        "program": "Chemistry",
+        "level": "Senior",
+        "campus": "Behrend",
+        "cumulativeGpa": 3.45,
+        "termGpa": 3.94,
+        "enrolledCredits": 9,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 66,
+        "attendancePercent": 87,
+        "assignmentsOnTimePercent": 96,
+        "canvasActivityLast7Days": 3,
+        "lastLogin": "2026-08-26"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-29",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100084",
+      "firstName": "Jack",
+      "lastName": "Johnson",
+      "preferredName": "Jack",
+      "email": "jack.johnson84@example.edu",
+      "academic": {
+        "program": "Political Science",
+        "level": "Junior",
+        "campus": "Behrend",
+        "cumulativeGpa": 2.15,
+        "termGpa": 1.65,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 65,
+        "attendancePercent": 62,
+        "assignmentsOnTimePercent": 63,
+        "canvasActivityLast7Days": 35,
+        "lastLogin": "2026-08-17"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-09",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100085",
+      "firstName": "Evelyn",
+      "lastName": "Mitchell",
+      "preferredName": "Evelyn",
+      "email": "evelyn.mitchell85@example.edu",
+      "academic": {
+        "program": "Economics",
+        "level": "Senior",
+        "campus": "Behrend",
+        "cumulativeGpa": 2.2,
+        "termGpa": 2.44,
+        "enrolledCredits": 17,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 76,
+        "attendancePercent": 85,
+        "assignmentsOnTimePercent": 83,
+        "canvasActivityLast7Days": 29,
+        "lastLogin": "2026-08-20"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-05-23",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100086",
+      "firstName": "Leo",
+      "lastName": "Patel",
+      "preferredName": "Leo",
+      "email": "leo.patel86@example.edu",
+      "academic": {
+        "program": "Criminal Justice",
+        "level": "Junior",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 2.75,
+        "termGpa": 2.33,
+        "enrolledCredits": 15,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 49,
+        "attendancePercent": 62,
+        "assignmentsOnTimePercent": 60,
+        "canvasActivityLast7Days": 10,
+        "lastLogin": "2026-08-25"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-14",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100087",
+      "firstName": "Mia",
+      "lastName": "Turner",
+      "preferredName": "Mia",
+      "email": "mia.turner87@example.edu",
+      "academic": {
+        "program": "Information Sciences and Technology",
+        "level": "Sophomore",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 3.34,
+        "termGpa": 3.23,
+        "enrolledCredits": 16,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 77,
+        "attendancePercent": 61,
+        "assignmentsOnTimePercent": 73,
+        "canvasActivityLast7Days": 76,
+        "lastLogin": "2026-08-22"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-01",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100088",
+      "firstName": "Owen",
+      "lastName": "Adams",
+      "preferredName": "Owen",
+      "email": "owen.adams88@example.edu",
+      "academic": {
+        "program": "Mathematics",
+        "level": "First-Year",
+        "campus": "Berks",
+        "cumulativeGpa": 3.69,
+        "termGpa": 3.53,
+        "enrolledCredits": 16,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 87,
+        "attendancePercent": 94,
+        "assignmentsOnTimePercent": 69,
+        "canvasActivityLast7Days": 54,
+        "lastLogin": "2026-08-13"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-04-28",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100089",
+      "firstName": "Ella",
+      "lastName": "Davis",
+      "preferredName": "Ella",
+      "email": "ella.davis89@example.edu",
+      "academic": {
+        "program": "Information Sciences and Technology",
+        "level": "Senior",
+        "campus": "University Park",
+        "cumulativeGpa": 2.36,
+        "termGpa": 2.6,
+        "enrolledCredits": 9,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 55,
+        "attendancePercent": 79,
+        "assignmentsOnTimePercent": 77,
+        "canvasActivityLast7Days": null,
+        "lastLogin": "2026-08-24"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-06",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100090",
+      "firstName": "Aria",
+      "lastName": "Green",
+      "preferredName": "Aria",
+      "email": "aria.green90@example.edu",
+      "academic": {
+        "program": "Mechanical Engineering",
+        "level": "First-Year",
+        "campus": "University Park",
+        "cumulativeGpa": 3.49,
+        "termGpa": 3.15,
+        "enrolledCredits": 12,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 69,
+        "attendancePercent": 87,
+        "assignmentsOnTimePercent": 76,
+        "canvasActivityLast7Days": 20,
+        "lastLogin": "2026-08-21"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-05",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100091",
+      "firstName": "Nora",
+      "lastName": "King",
+      "preferredName": "Nora",
+      "email": "nora.king91@example.edu",
+      "academic": {
+        "program": "Political Science",
+        "level": "First-Year",
+        "campus": "Abington",
+        "cumulativeGpa": 2.54,
+        "termGpa": 2.73,
+        "enrolledCredits": 12,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 93,
+        "attendancePercent": 96,
+        "assignmentsOnTimePercent": 83,
+        "canvasActivityLast7Days": 53,
+        "lastLogin": "2026-08-22"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-30",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100092",
+      "firstName": "Caleb",
+      "lastName": "Nelson",
+      "preferredName": "Caleb",
+      "email": "caleb.nelson92@example.edu",
+      "academic": {
+        "program": "Finance",
+        "level": "Sophomore",
+        "campus": "Abington",
+        "cumulativeGpa": 3.05,
+        "termGpa": 2.82,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 66,
+        "attendancePercent": 83,
+        "assignmentsOnTimePercent": 93,
+        "canvasActivityLast7Days": 7,
+        "lastLogin": "2026-08-26"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-07-18",
+        "appointmentScheduled": false,
+        "notes": "Student requested information about support resources."
+      }
+    },
+    {
+      "studentId": "900100093",
+      "firstName": "Layla",
+      "lastName": "Reed",
+      "preferredName": "Layla",
+      "email": "layla.reed93@example.edu",
+      "academic": {
+        "program": "Nursing",
+        "level": "First-Year",
+        "campus": "Behrend",
+        "cumulativeGpa": 2.26,
+        "termGpa": 2.3,
+        "enrolledCredits": 13,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 93,
+        "attendancePercent": 90,
+        "assignmentsOnTimePercent": 90,
+        "canvasActivityLast7Days": 85,
+        "lastLogin": "2026-08-14"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-22",
+        "appointmentScheduled": false,
+        "notes": "Discussed academic progress and next-term planning."
+      }
+    },
+    {
+      "studentId": "900100094",
+      "firstName": "Julian",
+      "lastName": "White",
+      "preferredName": "Julian",
+      "email": "julian.white94@example.edu",
+      "academic": {
+        "program": "Biology",
+        "level": "Senior",
+        "campus": "World Campus",
+        "cumulativeGpa": 3.15,
+        "termGpa": 3.4,
+        "enrolledCredits": 17,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 78,
+        "attendancePercent": 76,
+        "assignmentsOnTimePercent": 62,
+        "canvasActivityLast7Days": 51,
+        "lastLogin": "2026-08-26"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-04-29",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100095",
+      "firstName": "Hazel",
+      "lastName": "Campbell",
+      "preferredName": "Hazel",
+      "email": "hazel.campbell95@example.edu",
+      "academic": {
+        "program": "Biology",
+        "level": "First-Year",
+        "campus": "Berks",
+        "cumulativeGpa": 2.49,
+        "termGpa": 2.6,
+        "enrolledCredits": 12,
+        "coursesEnrolled": 3
+      },
+      "engagement": {
+        "engagementScore": 81,
+        "attendancePercent": 83,
+        "assignmentsOnTimePercent": 74,
+        "canvasActivityLast7Days": 43,
+        "lastLogin": "2026-08-23"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-04",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100096",
+      "firstName": "Isaac",
+      "lastName": "Foster",
+      "preferredName": "Isaac",
+      "email": "isaac.foster96@example.edu",
+      "academic": {
+        "program": "Information Sciences and Technology",
+        "level": "Sophomore",
+        "campus": "World Campus",
+        "cumulativeGpa": 2.7,
+        "termGpa": 3.25,
+        "enrolledCredits": 16,
+        "coursesEnrolled": 4
+      },
+      "engagement": {
+        "engagementScore": 58,
+        "attendancePercent": 73,
+        "assignmentsOnTimePercent": 61,
+        "canvasActivityLast7Days": 18,
+        "lastLogin": "2026-08-22"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-15",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100097",
+      "firstName": "Grace",
+      "lastName": "Iverson",
+      "preferredName": "Grace",
+      "email": "grace.iverson97@example.edu",
+      "academic": {
+        "program": "Communication",
+        "level": "Junior",
+        "campus": "Harrisburg",
+        "cumulativeGpa": 2.93,
+        "termGpa": 3.01,
+        "enrolledCredits": 18,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 96,
+        "attendancePercent": 94,
+        "assignmentsOnTimePercent": 96,
+        "canvasActivityLast7Days": 81,
+        "lastLogin": "2026-08-17"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-29",
+        "appointmentScheduled": true,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100098",
+      "firstName": "Wyatt",
+      "lastName": "Lewis",
+      "preferredName": "Wyatt",
+      "email": "wyatt.lewis98@example.edu",
+      "academic": {
+        "program": "Computer Science",
+        "level": "Junior",
+        "campus": "Abington",
+        "cumulativeGpa": 3.59,
+        "termGpa": 3.7,
+        "enrolledCredits": 15,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 76,
+        "attendancePercent": 90,
+        "assignmentsOnTimePercent": 59,
+        "canvasActivityLast7Days": 39,
+        "lastLogin": "2026-08-19"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-08-15",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100099",
+      "firstName": "Chloe",
+      "lastName": "Ortiz",
+      "preferredName": "Chloe",
+      "email": "chloe.ortiz99@example.edu",
+      "academic": {
+        "program": "Information Sciences and Technology",
+        "level": "Sophomore",
+        "campus": "Abington",
+        "cumulativeGpa": 3.23,
+        "termGpa": 3.24,
+        "enrolledCredits": 12,
+        "coursesEnrolled": 6
+      },
+      "engagement": {
+        "engagementScore": 68,
+        "attendancePercent": 95,
+        "assignmentsOnTimePercent": 90,
+        "canvasActivityLast7Days": 5,
+        "lastLogin": "2026-08-19"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-08",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    },
+    {
+      "studentId": "900100100",
+      "firstName": "Elijah",
+      "lastName": "Scott",
+      "preferredName": null,
+      "email": "elijah.scott100@example.edu",
+      "academic": {
+        "program": "Criminal Justice",
+        "level": "Senior",
+        "campus": "Behrend",
+        "cumulativeGpa": 2.9,
+        "termGpa": 3.27,
+        "enrolledCredits": 9,
+        "coursesEnrolled": 5
+      },
+      "engagement": {
+        "engagementScore": 82,
+        "attendancePercent": 63,
+        "assignmentsOnTimePercent": 87,
+        "canvasActivityLast7Days": 82,
+        "lastLogin": "2026-08-24"
+      },
+      "advising": {
+        "lastAdvisorContact": "2026-06-18",
+        "appointmentScheduled": false,
+        "notes": null
+      }
+    }
+  ]
+}
